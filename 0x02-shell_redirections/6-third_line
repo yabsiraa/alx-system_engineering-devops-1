@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 head -n 3 iacta | tail -n 1 
-=======
-cat iacta | awk 'NR==3'
->>>>>>> 172c208266e134305dade3aa7f4ee5a42c663655
